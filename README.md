@@ -7,6 +7,8 @@ A lightweight Python module implementing graph search and pathfinding algorithms
 - **Depth-First Search (DFS)**
 - **A* Search Algorithm** (with custom heuristic support)
 
+[Video Presentation](https://drive.google.com/drive/folders/1tessdBPZ08P0gEFblXECqI11gkXfD9Md?usp=sharing)
+
 ## Project Structure
 ```text
 search-module/
@@ -19,5 +21,3 @@ search-module/
 ├── graph.py
 ├── main.py
 └── requirements.txt
-
-[Video Presentation](https://drive.google.com/drive/folders/1tessdBPZ08P0gEFblXECqI11gkXfD9Md?usp=sharing)
